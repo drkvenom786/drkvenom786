@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/drkvenom786/drkvenom786/main/banner.svg" alt="V E N O M Header" />
+<img width="100%" src="https://raw.githubusercontent.com/drkvenom786/drkvenom786/main/venom.svg" alt="V E N O M Header" />
 
 <br/>
 
