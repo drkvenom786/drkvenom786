@@ -94,8 +94,10 @@ A personal digital identity — sleek, responsive, and built for presence.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drkvenom786&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=8E8E8E&text_color=C9C9C9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkvenom786&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=8E8E8E&fire=E6E6E6&currStreakLabel=E6E6E6"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=drkvenom786&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=8E8E8E&text_color=C9C9C9"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=drkvenom786&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=C9C9C9&layout=compact"/>
+
+<br/><br/>
 
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=drkvenom786&theme=react-dark&hide_border=true&bg_color=0D1117&color=E6E6E6&line=8E8E8E&point=FFFFFF"/>
 
