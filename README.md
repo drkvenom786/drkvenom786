@@ -1,15 +1,121 @@
-# 💫 About Me:
-🚀 Full-stack developer building web applications, Android apps, and AI-powered tools. Passionate about open source, automation, performance, and creating clean user experiences.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=220&section=header&text=VENOM&fontSize=70&fontColor=E6E6E6&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/venomx.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vennomx.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=drkvenom786&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=drkvenom786&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=drkvenom786&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://vennomx.com"><img src="https://img.shields.io/badge/WEBSITE-vennomx.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/drkvenom786"><img src="https://img.shields.io/badge/GITHUB-drkvenom786-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:drkvenom786@gmail.com"><img src="https://img.shields.io/badge/EMAIL-drkvenom786-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://facebook.com/venomx.dev"><img src="https://img.shields.io/badge/FACEBOOK-venomx.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
+
+**V E N O M** — designing and engineering digital products where clarity meets function.
+
+- 🧠 Focused on building **practical, real-world software** — web apps, Android apps, bots, and AI tools.
+- 🎨 Blending **development** with **design instinct** to craft interfaces that feel effortless.
+- ⚙️ Comfortable across the stack — from Python & Node.js backends to modern React & Kotlin front ends.
+- 📍 Based in **India** — working globally, building digitally.
+- 💬 Always open to interesting builds, collaborations, and ideas worth shipping.
+
+<br clear="right"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,kotlin,java,html,css&theme=dark" />
+
+### Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=react,express,fastapi,nodejs,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### Tools & Cloud Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,cloudflare,aws&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="28" /> Featured Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 AirBeats
+Advanced open-source YouTube Music client for Android & Windows with immersive players, multi-source modules, lyrics, stats, and modern Material 3 UI.
+
+</td>
+<td width="50%">
+
+### 🎬 Airflix
+A sleek, modern web application engineered for smooth media streaming and content discovery.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ bmb-api
+A fast Python-based backend API service powering data processing and automation workflows.
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+A personal digital identity — sleek, responsive, and built for presence.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drkvenom786&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=8E8E8E&text_color=C9C9C9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkvenom786&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=8E8E8E&fire=E6E6E6&currStreakLabel=E6E6E6"/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=drkvenom786&theme=react-dark&hide_border=true&bg_color=0D1117&color=E6E6E6&line=8E8E8E&point=FFFFFF"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<div align="center">
+
+### Let's build something worth shipping.
+
+<a href="https://vennomx.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+<a href="https://github.com/drkvenom786"><img src="https://img.shields.io/badge/GITHUB-drkvenom786-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=drkvenom786&style=for-the-badge&color=1a1a1a&labelColor=0D1117" />
+
+<br/><br/>
+
+<sub>© V E N O M — Designed for developers who think in systems.</sub>
+
+</div>
