@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=220&section=header&text=V%20E%20N%20O%20M&fontSize=70&fontColor=E6E6E6&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Software%20Engineer&descAlignY=58&descSize=18&animation=none"/>
+<img width="100%" src="https://raw.githubusercontent.com/drkvenom786/drkvenom786/main/banner.svg" alt="V E N O M Banner" />
 
-<br/>
+<br/><br/>
 
 <a href="https://vennomx.com"><img src="https://img.shields.io/badge/WEBSITE-vennomx.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/drkvenom786"><img src="https://img.shields.io/badge/GITHUB-drkvenom786-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
