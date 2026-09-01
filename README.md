@@ -66,14 +66,14 @@ Advanced open-source YouTube Music client for Android & Windows with immersive p
 <td width="50%">
 
 ### 🎬 Airflix
-A sleek, modern web application engineered for smooth media streaming and content discovery.
+A sleek, modern application engineered for smooth media streaming and content discovery.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚡ AirFlix-Web
+### 🌐 AirFlix-Web
  sleek, modern web application engineered for smooth media streaming and content discovery
 
 </td>
