@@ -73,8 +73,8 @@ A sleek, modern web application engineered for smooth media streaming and conten
 <tr>
 <td width="50%">
 
-### ⚡ bmb-api
-A fast Python-based backend API service powering data processing and automation workflows.
+### ⚡ AirFlix-Web
+ sleek, modern web application engineered for smooth media streaming and content discovery
 
 </td>
 <td width="50%">
