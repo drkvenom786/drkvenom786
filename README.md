@@ -49,44 +49,7 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="28" /> Featured Work
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎵 AirBeats
-Advanced open-source YouTube Music client for Android & Windows with immersive players, multi-source modules, lyrics, stats, and modern Material 3 UI.
-
-</td>
-<td width="50%">
-
-### 🎬 Airflix
-A sleek, modern application engineered for smooth media streaming and content discovery.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 AirFlix-Web
- sleek, modern web application engineered for smooth media streaming and content discovery
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-A personal digital identity — sleek, responsive, and built for presence.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
